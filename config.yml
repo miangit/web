@@ -19,7 +19,7 @@ template: webstack
 
 webstack:
   search:
-    enabled: false
+    enabled: true
     default: google
     # 可选的搜索引擎
     engines:
