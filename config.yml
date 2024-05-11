@@ -10,12 +10,6 @@ favicon: "https://github.com/miangit.png?size=40"
 # your website url
 url: https://miangit.github.io/web/
 
-# github profile url
-github: "https://github.com/miangit"
-
-# footer message
-footer: © 2021-2021 @miangit
-
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
@@ -37,15 +31,71 @@ content:
         - name: Google
           description: 
           url: https://www.google.com/
+          - name: Baidu
+          description: 
+          url: https://www.baidu.com/
+          - name: Github
+          description: 
+          url: https://github.com/
+          - name: 今日热榜
+          description: 
+          url: https://tophub.today/dashboard
+          - name: 哔哩哔哩动态
+          description: 
+          url: https://t.bilibili.com/
+          - name: Twitter
+          description: 
+          url: https://twitter.com/
+          - name: V2ex
+          description: 
+          url: https://www.v2ex.com/?tab=all
+          - name: 过早客
+          description: 
+          url: https://www.guozaoke.com/
+    - name: 影视
+      sites:
+        - name: 豆瓣电影
+          description: 
+          url: https://movie.douban.com/
+        - name: YouTube
+          description: 
+          url: https://www.youtube.com/
+        - name: 爱奇艺
+          description: 
+          url: https://www.iqiyi.com/
+        - name: 优酷
+          description: 
+          url: https://youku.com/
+        - name: 芒果TV
+          description: 
+          url: https://www.mgtv.com/
     - name: 足球
       sites:
         - name: 直播吧
           description: 
           url: https://www.zhibo8.com/
+        - name: 虎扑
+          description: 
+          url: https://bbs.hupu.com/
         - name: 真实球迷汇-海星直播
           description: 
           url: https://pc.haixing.tv/live?router=live&type=0&id=3947387&uid=20649
-        - name: 汤米足球的抖音直播间
+        - name: 汤米足球-抖音直播
           description: 
           url: https://live.douyin.com/699721625261
+    - name: 购物
+      sites:
+        - name: 淘宝
+          description: 
+          url: https://www.taobao.com/
+        - name: 京东
+          description: 
+          url: https://www.jd.com/
+        - name: 什么值得买
+          description: 
+          url: https://www.smzdm.com/
+        - name: MacRumors
+          description: Apple产品购买资讯
+          url: https://www.macrumors.com/
+
 
