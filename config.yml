@@ -17,14 +17,6 @@ footer: © 2024 @miangit
 # 1. webstack (http://webstack.cc)
 template: webstack
 
-webstack:
-  search:
-    enabled: true
-    default: google
-    # 可选的搜索引擎
-    engines:
-
-
 content:
   categories:
     - name: 常用
