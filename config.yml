@@ -10,6 +10,9 @@ favicon: "https://github.com/miangit.png?size=40"
 # your website url
 url: https://miangit.github.io/web/
 
+# footer message
+footer: © 2024 @miangit
+
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
