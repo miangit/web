@@ -89,6 +89,15 @@ content:
         - name: 汤米足球-抖音直播
           description: 
           url: https://live.douyin.com/699721625261
+        - name: 无插件直播
+          description: 
+          url: http://www.wuchajian.live/
+        - name: 高清直播网
+          description: 
+          url: http://www.woyaokanzhibo.com/
+        - name: 乐视吧
+          description: 
+          url: https://www.letv8.cc/
     - name: 购物
       sites:
         - name: 淘宝
