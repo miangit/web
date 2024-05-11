@@ -31,25 +31,25 @@ content:
         - name: Google
           description: 
           url: https://www.google.com/
-          - name: Baidu
+        - name: Baidu
           description: 
           url: https://www.baidu.com/
-          - name: Github
+        - name: Github
           description: 
           url: https://github.com/
-          - name: 今日热榜
+        - name: 今日热榜
           description: 
           url: https://tophub.today/dashboard
-          - name: 哔哩哔哩动态
+        - name: 哔哩哔哩动态
           description: 
           url: https://t.bilibili.com/
-          - name: Twitter
+        - name: Twitter
           description: 
           url: https://twitter.com/
-          - name: V2ex
+        - name: V2ex
           description: 
           url: https://www.v2ex.com/?tab=all
-          - name: 过早客
+        - name: 过早客
           description: 
           url: https://www.guozaoke.com/
     - name: 影视
