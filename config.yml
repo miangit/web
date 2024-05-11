@@ -16,7 +16,20 @@ footer: © 2024 @miangit
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
+
 webstack:
+  search:
+    enabled: false
+    default: google
+    # 可选的搜索引擎
+    engines:
+      - google
+      - github
+      - weibo
+      - baidu
+      - bilibili
+      - zhihu
+      
 content:
   categories:
     - name: 常用
